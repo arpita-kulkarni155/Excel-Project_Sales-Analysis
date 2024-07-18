@@ -1,6 +1,3 @@
 # Excel-Project_Sales-Analysis
 
- Excel project to create annual sales Report of Vrinda store.
-
- Sample Questions:
- Q1. Compare the sales 
+ Excel project to create annual sales Report of Vrinda store. 
